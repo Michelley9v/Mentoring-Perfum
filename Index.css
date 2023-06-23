@@ -1,0 +1,50 @@
+:root {
+    --primary-dark-cyan:var: .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+    --primary-cream:var(--primary-dark-cyan) hsl(30, 38%, 92%)
+    --natural-dark-blue: hsl(212, 21%, 14%)
+    --Dark grayish blue: hsl(228, 12%, 48%)
+    --White: hsl(0, 0%, 100%)
+}
+
+
+
+
+
+* {
+box-sizing: border-box;
+}
+
+html {
+    font-size: 14px;
+    font-family: Montserrat, Arial, Helvetica,
+    sans-serif;
+    font-weight: 500;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+ font-family: Fraunces; "Times New Roman",
+ Times, serif
+ font-weight: 700;
+}
+
+
+
+
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a {
+     color: hsl(228, 45%, 44%); 
+    }
+
+
+

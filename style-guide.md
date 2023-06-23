@@ -11,7 +11,8 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Dark cyan: hsl(158, 36%, 37%)
+- Dark cyan: .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
 - Cream: hsl(30, 38%, 92%)
 
 ### Neutral
