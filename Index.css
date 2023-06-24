@@ -19,7 +19,6 @@ html {
     font-size: 14px;
     font-family: Montserrat, Arial, Helvetica,
     sans-serif;
-    font-weight: 500;
 }
 
 h1,
@@ -28,9 +27,16 @@ h3,
 h4,
 h5,
 h6 {
- font-family: Fraunces; "Times New Roman",
- Times, serif
- font-weight: 700;
+ font-family: Fraunces, "Times New Roman",
+ Times, serif,
+ ;font-weight: 700;
+}
+
+.text-dark-blue{
+    color: var, --(neutral-dark-blue);
+}
+.text-dark-gray{
+    color: var, --(neutral-dark-gray);
 }
 
 
